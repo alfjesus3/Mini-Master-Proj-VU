@@ -19,6 +19,8 @@ The report can be viewed at (TODO).
 * The Urpc 2019 version is available at (http://www.cnurpc.org/a/js/2019/0805/125.html)
 * My implementation of the experiments can be made available upon request.
 
+## Results
+* The detection visual results for Brackish and Urpc 2019 are displayed on the ./Results/ folders. They are taken from Test samples on those datasets.
 
 ### References
 * DetNAS: Backbone Search for Object Detection, Chen et. al. - ([http://arxiv.org/abs/1802.05983])
