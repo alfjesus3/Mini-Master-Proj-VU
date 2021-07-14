@@ -4,7 +4,7 @@ For a Research course at VU in the thesis preparation.
 ## Report Abstract
 Current convolutional based object detectors lack generalization capabilities. Using a custom feature extractor architecture tailored for a target type of detection task appears as a more flexible and efficient alternative. Recent developments in neural architecture search (NAS) have enabled methods like DetNAS to provide a custom object detection feature extractor. It is a first step towards applying Meta-Learning approaches in underwater object detection. In experiments, it is shown by comparing to other methods, that DetNAS achieves comparable performance. Despite this, the inference speed gain is not verified which limits the reachability of the approach. In cases when limited data is available, such as labelled underwater scenes, a bigger effort should be laid on improving the data quality and exploring semi-supervised training approaches. The code for the experiments is available at https://github.com/alfjesus3/Mini-Master-Proj-VU.
 
-The report can be viewed at (TODO).
+The report can be viewed at https://drive.google.com/file/d/123EYQa99-IuzNdFcojXUrs5ptF0BV7Tr/view?usp=sharing.
 
 ## Experimental Setup
 * In order to apply DetNAS to the underwater datasets, the original authors' repository was used (https://github.com/megvii-model/DetNAS). 
