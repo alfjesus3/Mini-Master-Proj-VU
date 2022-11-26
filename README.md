@@ -1,6 +1,12 @@
 # Mini-Master-Proj-VU
 For a Research course at VU in the thesis preparation.
 
+## Publication:
+* This work was published at the OCEANS22 conference
+  - "Underwater Object Classification and Detection: first results and open challenges", Feb 2022
+    - In collaboration with Claudio Zito, Claudio Tortorici, Eloy Roura, Giulia De Masi from TII Abu Dhabi (UAE)
+
+
 ## Report Abstract
 Current convolutional based object detectors lack generalization capabilities. Using a custom feature extractor architecture tailored for a target type of detection task appears as a more flexible and efficient alternative. Recent developments in neural architecture search (NAS) have enabled methods like DetNAS to provide a custom object detection feature extractor. It is a first step towards applying Meta-Learning approaches in underwater object detection. In experiments, it is shown by comparing to other methods, that DetNAS achieves comparable performance. Despite this, the inference speed gain is not verified which limits the reachability of the approach. In cases when limited data is available, such as labelled underwater scenes, a bigger effort should be laid on improving the data quality and exploring semi-supervised training approaches. The code for the experiments is available at https://github.com/alfjesus3/Mini-Master-Proj-VU.
 
